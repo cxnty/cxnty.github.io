@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/cxnty/cxnty.github.io.git</id>
+    <title>鲸致</title>
+    <updated>2021-09-13T03:19:57.126Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/cxnty/cxnty.github.io.git"/>
+    <link rel="self" href="https://github.com/cxnty/cxnty.github.io.git/atom.xml"/>
+    <subtitle>鲸致工作室</subtitle>
+    <logo>https://github.com/cxnty/cxnty.github.io.git/images/avatar.png</logo>
+    <icon>https://github.com/cxnty/cxnty.github.io.git/favicon.ico</icon>
+    <rights>All rights reserved 2021, 鲸致</rights>
+    <entry>
+        <title type="html"><![CDATA[鲸致工作室《自我介绍》]]></title>
+        <id>https://github.com/cxnty/cxnty.github.io.git/post/jing-zhi-gong-zuo-shi-lesslesszi-wo-jie-shao-greatergreater/</id>
+        <link href="https://github.com/cxnty/cxnty.github.io.git/post/jing-zhi-gong-zuo-shi-lesslesszi-wo-jie-shao-greatergreater/">
+        </link>
+        <updated>2021-09-13T03:15:53.000Z</updated>
+        <content type="html"><![CDATA[<p>鲸致创始人：<br>
+一个键盘a<br>
+创始时间：<br>
+2020/11/14 16:03<br>
+室成员：<br>
+一个键盘a(室长)鲸致的三仔(副室长)柠檬探(副室长)神话～甲</p>
+]]></content>
+    </entry>
+</feed>
